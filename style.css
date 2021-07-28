@@ -1,0 +1,176 @@
+* {
+    margin: 0px 20px 0px 20px;
+    font-family: Comic Sans MS;
+}
+
+.nav {
+    background-color: black;
+    height: 80px;
+}
+
+.top-left-h1 {
+    margin: auto;
+}
+
+h1 {
+    color: white;
+    margin: inherit;
+    padding: 15px 0px 0px 10px;
+    /* align-items: center;
+    justify-content: left; */
+}
+
+h2 {
+    margin: 30px 0px 0px 37px;
+}
+
+h3 {
+    margin: -40px 0px 0px 23px;
+}
+
+.p1, .p2, .p3 {
+    margin: 30px 0px 0px 8px;
+}
+
+.nichole {
+    margin:-37px 0px 0px 20px;
+}
+
+.jim {
+    margin: -26px 0px 0px 20px;
+}
+
+.your-feed {
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    /* display: flex; */
+}
+
+.col {
+    background-color: lightcyan;
+    /* flex: 1; */
+}
+
+.col-2 {
+    /* flex: 2; */
+    background-color: lightcyan;
+}
+
+.box-1 {
+    margin: 0px 0px 0px 450px;
+    margin-top: 200px;
+    height: 300px;
+    width: 250px;
+    border-style: dotted;
+    border-color: red;
+    border-width: 4px;
+}
+
+.box-2 {
+    margin: 0px 0px 0px 725px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    height: 150px;
+    width: 400px;
+    border-style: dotted;
+    border-color: red;
+    border-width: 4px;
+}
+
+.box-3, .box-4 {
+    margin: 0px 0px 0px 725px;
+    margin-bottom: 10px;
+    height: 150px;
+    width: 400px;
+    border-style: dotted;
+    border-color: red;
+    border-width: 4px;
+}
+
+.box-4 {
+    margin: 0px 0px 0px 725px;
+    height: 150px;
+    width: 400px;
+    border-style: dotted;
+    border-color: red;
+    border-width: 4px;
+}
+
+.box-5 {
+    margin: -494px 0px 0px 500px;
+    height: 290px;
+    width: 200px;
+    border-style: dotted;
+    border-color: red;
+    border-width: 4px;
+}
+
+.boxes {
+    align-items: center;
+    justify-content: center;
+    margin: -25px 0px 0px -40px
+}
+
+.btn-1 {
+    background-color: khaki;
+    border-radius: 0px;
+    margin: 17px 0px 0px 310px;
+    width: 50px;
+    font-size: larger;
+}
+
+.btn-2 {
+    background-color: khaki;
+    border-radius: 0px;
+    margin: 17px 0px 0px 310px;
+    width: 50px;
+    font-size: larger;
+}
+
+.btn-3 {
+    background-color: khaki;
+    border-radius: 0px;
+    margin: 17px 0px 0px 310px;
+    width: 50px;
+    font-size: larger;
+}
+
+img {
+    height: 75px;
+    width: 75px;
+    margin: 31px 0px 10px 64px;
+}
+
+.link-1 {
+    display: inline-block;
+    margin: 19px 0px 0px 37px;
+    font-size: larger;
+}
+
+.link-2, .link-3, .link-4 {
+    margin: 0px 0px 0px 0px;
+}
+
+/* .count-1 {
+    margin: -276px -33px 4px 900px;
+}
+
+.count-2 {
+    margin: 0px -33px 4px 900px;
+} */
+
+/* .post1 {
+    margin:-102px 0px 0px 219px;
+}
+
+.post2 {
+    margin: 0px 0px 0px 241px;
+
+.post3 {
+    margin: 0px 0px 0px 0px;
+} */
